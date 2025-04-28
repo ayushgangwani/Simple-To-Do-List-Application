@@ -19,7 +19,7 @@ So even if you close and reopen the application, your tasks are never lost!
 ## 📂 Files Included
 
 - `main.py` — Python source code for the To-Do List application
-- `tasks.txt` — Text file where all tasks are saved (automatically generated)
+- `todo_app.txt` — Text file where all tasks are saved (automatically generated)
 
 ---
 
